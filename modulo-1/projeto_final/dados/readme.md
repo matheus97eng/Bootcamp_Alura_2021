@@ -1,0 +1,6 @@
+Este repositório contém os dados utilizados no desafio final do módulo 1. São eles:
+
++ casos de covid-19 relatados pelos boletins das Secretarias Estaduais de Saúde.
+  + O endereço foi retirado do seguinte repositório do github: https://github.com/turicas/covid19-br/blob/master/api.md#caso_full
+  + O diretório é dos colaboradores do Brasil.IO e os dados foram todos reunidos por eles
+  + O arquivo foi baixado pela url: https://data.brasil.io/dataset/covid19/caso.csv.gz às 15h do dia 26/05/2021
