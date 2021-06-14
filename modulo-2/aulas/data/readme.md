@@ -11,3 +11,5 @@ mas aqui eles estão mais desatualizados, sendo o último mês de registro em Ju
 + `out_gastos_2020-Jul` = os mesmos valores de gastos da tabela acima, porém somente com os valores do mês de Julho de 2020.
 
 + `out_gastos_e_populacao_2020-Jul` = as informações da tabela de cima mais as informações da tabela `out_populacao`
+
++ `out_mensal_aberto` = informação dos gastos, onde os dados são separados pelas colunas data, UF, Região, gastos e gastos em milhões.
