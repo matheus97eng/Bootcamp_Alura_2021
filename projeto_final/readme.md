@@ -1,6 +1,6 @@
 # Apresentação
 
-Olá! Tudo bem por aí?! Meu nome é Matheus Maia, estudante de ciência de dados, engenheiro físico. 
+Olá! Tudo bem por aí?! Meu nome é Matheus Maia, estudante de ciência de dados e engenheiro físico em formação. 
 
 Estou completando o final do curso/bootcamp de DataScience aplicada da Alura e este é o espaço que desenvolvi para o projeto final do curso: desenvolver um modelo capaz de prever, 
 através de dados do hospital Sírio Libanês, se um paciente com covid precisa ser internado e ir para a UTI.
@@ -25,6 +25,15 @@ A utilização dos dados para treino e teste dos modelos teve o seguinte objetiv
 - utilizar ao máximo os dados fornecidos pelo Sírio Libanês;
 - não utilizar dados que foram retirados possivelmente depois do paciente ter sido internado;
 - excluir dados que não contribuem para o modelo, como identificação do paciente.
+
+# Bibliotecas utilizadas:
+
+- linguagem python
+- pandas
+- seaborn
+- matplotlib
+- numpy
+- sklearn
 
 # Resultados
 
