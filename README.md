@@ -20,7 +20,7 @@ Repositório de estudos para o Bootcamp de Data Science Aplicada, realizado em 2
     + pipeline de dados   
     + facebook prophet
 - séries temporais
-- apresentação Power BI
+- introdução Power BI
 - github
 - storytelling
 - visualização de gráficos (UX)
