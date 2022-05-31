@@ -28,7 +28,6 @@ A utilização dos dados para treino e teste dos modelos teve o seguinte objetiv
 
 # Bibliotecas utilizadas:
 
-- linguagem python
 - pandas
 - seaborn
 - matplotlib
